@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class exercise_arraylist {
+class example_arraylist_string {
     public static void main (String[] args) {
         ArrayList<String> temperatures = new ArrayList<String>();
 
